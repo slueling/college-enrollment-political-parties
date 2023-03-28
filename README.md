@@ -1,11 +1,5 @@
 # Data and Programming for Public Policy II - Python Programming
-# PPHA 30538
-
-
-## Final Project: Reproducible Research
-## Autumn 2022
 ## Authors: Olivia Gunther, Sarah Lueling & Sarah Scott
-## Final Github Repo Name: final-project-college-enrollment-political-parties
 
 Our project idea was inspired by the recent midterm elections and the current state of the U.S. economy. 
 In summer and fall of 2022, against the backdrop of a looming recession,
