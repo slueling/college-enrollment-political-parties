@@ -1,5 +1,10 @@
-# Data and Programming for Public Policy II - Python Programming
-## Authors: Olivia Gunther, Sarah Lueling & Sarah Scott
+# Exploring the Relationship Between College Enrollment, Voter Turnout and the Economy
+
+## Authors: Olivia Gunther, Sarah Scott & Sarah Lueling
+
+### Project created in Fall 2022 for Data and Programming for Public Policy II
+
+Packages: Github, requests, BeautifulSoup, pandas, numpy, os, re, datetime, pandas_datareader.data, matplotlib, shiny, snscrape.modules.twitter, seaborn, nltk, json, statsmodels.formula.api
 
 Our project idea was inspired by the recent midterm elections and the current state of the U.S. economy. 
 In summer and fall of 2022, against the backdrop of a looming recession,
